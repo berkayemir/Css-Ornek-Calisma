@@ -1,0 +1,63 @@
+.header{
+    border: solid 1px #B4B95B;
+    text-align: center;
+    border-style:ridge;
+    background-color: #F5FAF3;
+  
+    
+    
+}
+.header img{
+    width: 120px;
+    height: 120px;
+}
+.header-name{
+    font-family: 'New Tegomin', serif;
+
+}
+.card-group{
+    margin-top: 40px;
+   
+    
+}
+.card{
+    margin-left: 10px;
+    margin-right: 10px;
+    border: solid 1px black;
+    text-align: center;
+    
+}
+.card:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card a:hover{
+    text-decoration: underline;
+    
+}
+.card-img-top{
+  object-fit: cover;
+  width: 250px;
+  height: 250px;
+  
+}
+
+.footer{
+    
+    margin-top: 40px ;
+}
+
+.instagram img{
+   width: 40px;
+   height: 40px;
+   float: right;
+   margin-right: 100px;
+}
+.youtube img{
+    width: 50px;
+   height: 50px;
+   float: right;
+   margin-right: 20px;
+   margin-top: -3px;
+   
+}
